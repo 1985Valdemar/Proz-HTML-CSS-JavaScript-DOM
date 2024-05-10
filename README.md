@@ -6,7 +6,7 @@
 <p align="center">
 <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp|&nbsp;&nbsp;&nbsp;
 <a href="#tecnologia">Tecnologia</a>&nbsp;&nbsp;&nbsp|&nbsp;&nbsp;&nbsp;
-<a href="#autores">Autor</a>.</p>
+<a href="#autores">Autores</a>.</p>
 
 
 # Sobre
@@ -52,7 +52,7 @@ Esse projeto foi desenvolvindo com as seguintes tecnologias:
 - JavaScript com DOM (Document Object Model)
 - Git e Github.
 
-# Autor
+# Autores
 - Valdemar
 ---
 
