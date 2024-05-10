@@ -68,8 +68,7 @@ const main = document.querySelector("main")
 main.appendChild(artigo2)
 }
 
-
-//****************** forEach() que é uma opção mais concisa e limpa para percorrer arrays. Aqui está como você poderia usá-lo
+//****************** forEach() Uma opção mais inchuta e limpa para percorrer arrays.
 arrayPostagens.forEach(item => {
   const artigo3 = document.createElement("article");
   artigo3.id = "post-03";
