@@ -1,0 +1,46 @@
+/* Define o estilo padrão para todos os elementos */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Estilo para o cabeçalho */
+header {
+    display: flex;
+    justify-content: flex-end; /*flex-end;*/ /* Alinha o conteúdo do cabeçalho no lado direito */
+    background-color: rgb(209, 209, 172); /* Define o fundo como bege */
+    padding: 10px; /* Adiciona um preenchimento interno de 10 pixels */
+}
+
+/* Estilo para o título */
+#titulo {
+    font-size: 24px; /* Define o tamanho da fonte como 24 pixels */
+    color: blue; /* Define a cor do texto como azul */
+    text-decoration: underline; /* Adiciona sublinhado ao texto */
+}
+
+/* Estilo para o link */
+#link {
+    color: green; /* Define a cor do link como verde */
+}
+
+/* Estilo para os itens da lista não ordenada */
+ul {
+    list-style-type: none; /* Remove os marcadores padrão da lista */
+    padding-left: 0; /* Remove o recuo padrão da lista */
+}
+
+ul li {
+    margin-bottom: 5px; /* Adiciona margem inferior de 5 pixels para cada item da lista */
+}
+
+/* Estilo para os itens da lista ordenada */
+#lista-ordenada {
+    list-style-type: decimal; /* Define o tipo de marcador como numeração decimal */
+}
+
+#lista-ordenada li {
+    margin-bottom: 5px; /* Adiciona margem inferior de 5 pixels para cada item da lista */
+}
