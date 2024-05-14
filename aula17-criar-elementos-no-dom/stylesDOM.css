@@ -1,0 +1,40 @@
+/* Etapa 1: Estilo para o título */
+#titulo {
+    font-size: 24px; /* Define o tamanho da fonte como 24 pixels */
+    color: #333; /* Define a cor do texto como cinza escuro */
+    margin-bottom: 20px; /* Adiciona uma margem inferior de 20 pixels */
+    font-weight: bold; /* Define a fonte como negrito */
+}
+
+.mensagem {
+    font-size: 24px; /* Define o tamanho da fonte como 24 pixels */
+    color: #333; /* Define a cor do texto como cinza escuro */
+    margin-bottom: 20px; /* Adiciona uma margem inferior de 20 pixels */
+    font-weight: bold; /* Define a fonte como negrito */
+
+}
+
+/* Etapa 2: Estilo para o produto */
+.produto {
+    border: 1px solid #ccc; /* Adiciona uma borda sólida cinza ao redor do produto */
+    padding: 10px; /* Adiciona um preenchimento interno de 10 pixels */
+    margin-bottom: 20px; /* Adiciona uma margem inferior de 20 pixels */
+    background-color: #eafaea; /* Adiciona uma cor de fundo verde claro */
+}
+
+/* Etapa 3: Estilo para o nome do produto */
+.produto h2 {
+    margin-bottom: 10px; /* Adiciona uma margem inferior de 10 pixels */
+}
+
+/* Etapa 4: Estilo para a descrição do produto */
+.produto p {
+    color: #666; /* Define a cor do texto como cinza */
+    margin-bottom: 5px; /* Adiciona uma margem inferior de 5 pixels */
+}
+
+/* Etapa 5: Estilo para o preço do produto */
+.produto .preco {
+    font-weight: bold; /* Define a fonte como negrito */
+    color: #009900; /* Define a cor do texto como verde */
+}
