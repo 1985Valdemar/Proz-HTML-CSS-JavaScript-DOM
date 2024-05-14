@@ -1,0 +1,3 @@
+    <!-- DEFER = para indicar ao navegador que deve executar nosso código JavaScript
+         apenas depois que todos os elementos HTML foram renderizados -->
+
